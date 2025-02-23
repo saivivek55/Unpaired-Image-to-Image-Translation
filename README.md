@@ -12,10 +12,14 @@ This project explores unpaired image-to-image translation using the Unsupervised
 
 ## Datasets- [here](https://efrosgans.eecs.berkeley.edu/cyclegan/datasets/).
 
-## How to Run This Project
+## How to Run This Project-
 To replicate the analysis:
 ```bash
 git clone https://github.com/saivivek55/Unpaired-Image-to-Image-Translation.git
 cd Unpaired-Image-to-Image-Translation
 # Ensure you have the necessary Python packages installed
 # Open the Jupyter Notebook 'Pix2Pix & Unit_Image Translation.ipynb' to view the implementation
+```
+
+## License- 
+This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
